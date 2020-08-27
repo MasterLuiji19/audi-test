@@ -1,0 +1,36 @@
+.info-cards {
+    display: flex;
+}
+
+.info-card {
+    margin-right: 73px;
+    margin-bottom: 46px;
+}
+
+.info-card__name {
+    font-family: "auditypeBold";
+    font-size: 16px;
+    color: #e92d3e;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 14px;
+}
+
+.info-card__price {
+    font-family: "auditypeBold";
+    font-size: 22px;
+    color: #151515;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.info-card__price_value {
+    font-size: 60px;
+}
+
+.info-card__deposit {
+    font-family: "auditypeNormal";
+    font-size: 16px;
+    color: #7a7a7a;
+    margin: 0;
+}

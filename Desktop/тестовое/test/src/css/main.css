@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "auditypeBold";
+    src: url("../fonts/auditype/auditype-bold.woff") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "auditypeNormal";
+    src: url("../fonts/auditype/auditype-normal.woff") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

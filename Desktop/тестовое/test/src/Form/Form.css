@@ -1,0 +1,36 @@
+.form {
+
+}
+
+.form-title {
+    font-family: "auditypeBold";
+    font-size: 36px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.flex-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.form__line {
+    width: 15px;
+    height: 2px;
+    background: #fff;
+}
+
+@media screen and (max-width: 1380px) {
+    .flex-wrapper {
+        display: block;
+    }
+
+    .media-wrapper {
+        display: flex;
+        align-items: center;
+    }
+}
